@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="ParameterPreset" id="{2d042fc2-a45c-40ba-b32e-ebc19029f441}">
+		<property name="name">
+			<value>VolumeAirPango</value>
+		</property>
+		<relationship name="folder">
+			<destination>{0e841334-34ed-4592-959f-70a015f84dff}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{2109d736-ef04-4221-926c-6ea84b0f3575}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{2109d736-ef04-4221-926c-6ea84b0f3575}">
+		<property name="maximum">
+			<value>100</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="seekSpeed">
+			<value>360</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="EventFolder" id="{41a0c7a1-2466-4a22-8f1b-038be8fb4541}">
+		<property name="name">
+			<value>TurboPangolin</value>
+		</property>
+		<relationship name="folder">
+			<destination>{789ca2db-2651-4203-9a0a-01926f7005ec}</destination>
+		</relationship>
+	</object>
+</objects>

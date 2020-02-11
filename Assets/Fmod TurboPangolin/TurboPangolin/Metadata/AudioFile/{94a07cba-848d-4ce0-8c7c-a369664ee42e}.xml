@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{94a07cba-848d-4ce0-8c7c-a369664ee42e}">
+		<property name="assetPath">
+			<value>Ambiance rattlesnake1.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>6.5230385487528348</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{788aad74-f7d7-4826-a88d-802b15f4d5fe}</destination>
+		</relationship>
+	</object>
+</objects>

@@ -1,0 +1,903 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &-8073841149658624613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Sol/Ambiance Rattlesnake 2
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Sol/Ambiance Rattlesnake 2
+  guid: aa4ae4c732f2bb4b819efbb2190476ba
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 12144
+--- !u!114 &-7205572403965508762
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ingredients.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod TurboPangolin/TurboPangolin/Build/Desktop/Ingredients.bank
+  SubDir: 
+  lastModified: 637154028637180718
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-5569845733958794207
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Sol/Ambiance Rattlesnake
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Sol/Ambiance Rattlesnake
+  guid: ecadac37c913f74ba56a732fac00b0ad
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 7248
+--- !u!114 &-5050973415627392255
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ingredient/Collision bois
+  m_EditorClassIdentifier: 
+  Path: event:/Ingredient/Collision bois
+  guid: 41c7d8c3071c8343bb541e3b7b469687
+  Banks:
+  - {fileID: 4783787750002425902}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 387
+--- !u!114 &-4628649044109929387
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod TurboPangolin/TurboPangolin/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637154028647239369
+  LoadResult: 0
+  FileSizes: []
+  Exists: 0
+--- !u!114 &-4346895455318762896
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ingredient/Collision pierre
+  m_EditorClassIdentifier: 
+  Path: event:/Ingredient/Collision pierre
+  guid: 5d913488227d0144815bfa932c92db2c
+  Banks:
+  - {fileID: 4783787750002425902}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 357
+--- !u!114 &-4291386190279628488
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/TurboPangolin/Jump Pangolin
+  m_EditorClassIdentifier: 
+  Path: event:/TurboPangolin/Jump Pangolin
+  guid: cdac8b456e35b54abc47de5003dc2a3d
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 320
+--- !u!114 &-3966899225555139785
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Air Pango/VolumeAirPango
+  m_EditorClassIdentifier: 
+  Name: VolumeAirPango
+  Min: 0
+  Max: 100
+  Default: 0
+  Exists: 1
+--- !u!114 &-2655050240543674598
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/TurboPangolin/SlowMoVis\xE9"
+  m_EditorClassIdentifier: 
+  Path: "event:/TurboPangolin/SlowMoVis\xE9"
+  guid: 5cf0f8fd7f137f40bf4b21705b40d0cd
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1788
+--- !u!114 &-2628287626955457979
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Sol/Ambiance Snake
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Sol/Ambiance Snake
+  guid: 1046d8e5386a4e4d9b502e281d256cd7
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 550
+  Length: 35069
+--- !u!114 &-2444668847745968746
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Eagle 4
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Eagle 4
+  guid: acca8c3e38bdb84689c6ff2834f0e3f4
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 7806
+--- !u!114 &-2348172101814761068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Air Pango/VolumeAirPango
+  m_EditorClassIdentifier: 
+  Name: VolumeAirPango
+  Min: 0
+  Max: 100
+  Default: 0
+  Exists: 1
+--- !u!114 &-2064299647895803847
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Ingredient/Collision D\xE9brit"
+  m_EditorClassIdentifier: 
+  Path: "event:/Ingredient/Collision D\xE9brit"
+  guid: e74b3a34d1f57c4596806eabecc9d4a0
+  Banks:
+  - {fileID: 4783787750002425902}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 357
+--- !u!114 &-1874490991986447486
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/TurboPangolin/Canon Pangolin
+  m_EditorClassIdentifier: 
+  Path: event:/TurboPangolin/Canon Pangolin
+  guid: 00dc4edae88fcf4683273d90d094fac1
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 1680
+--- !u!114 &-1787828014591057385
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod TurboPangolin/TurboPangolin/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637154214510292889
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &-207360473476844498
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/TurboPangolin/Pango Sol
+  m_EditorClassIdentifier: 
+  Path: event:/TurboPangolin/Pango Sol
+  guid: 8e373900307a05468034e876fc832032
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 785
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d32cf7c32a3ed8347bac48ef5ed56d82, type: 3}
+  m_Name: FMODStudioCache
+  m_EditorClassIdentifier: 
+  EditorBanks:
+  - {fileID: 850723584438662317}
+  - {fileID: 4783787750002425902}
+  - {fileID: -1787828014591057385}
+  EditorEvents:
+  - {fileID: 8831981898990645596}
+  - {fileID: 616300948583483362}
+  - {fileID: -5050973415627392255}
+  - {fileID: -4346895455318762896}
+  - {fileID: 4897978433998653414}
+  - {fileID: 8759291129127138743}
+  - {fileID: 5936105679548052171}
+  - {fileID: -2064299647895803847}
+  - {fileID: -1874490991986447486}
+  - {fileID: 8773858593835143902}
+  - {fileID: -2628287626955457979}
+  - {fileID: 7071434558923249976}
+  - {fileID: 4434412193887358551}
+  - {fileID: 7604598542338285508}
+  - {fileID: -2655050240543674598}
+  - {fileID: 158899117327795028}
+  - {fileID: 9076144096452283278}
+  - {fileID: 3200745368940700747}
+  - {fileID: -207360473476844498}
+  - {fileID: 2470261025492464859}
+  - {fileID: 1052877933400304454}
+  - {fileID: -8073841149658624613}
+  - {fileID: 3349598948177057347}
+  - {fileID: -2444668847745968746}
+  - {fileID: 4286499015177313614}
+  - {fileID: -4291386190279628488}
+  - {fileID: 3151340761102545818}
+  - {fileID: 255904648334118418}
+  - {fileID: -5569845733958794207}
+  EditorParameters: []
+  MasterBanks:
+  - {fileID: -1787828014591057385}
+  StringsBanks:
+  - {fileID: 850723584438662317}
+  stringsBankWriteTime: 637154214344670786
+  cacheVersion: 3
+--- !u!114 &158899117327795028
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Son Ambiance
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Son Ambiance
+  guid: 748adefd93729f4eb86ad71ef46d48e9
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 1
+  Is3D: 0
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 58013
+--- !u!114 &255904648334118418
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Eagle 3
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Eagle 3
+  guid: dd55107774a0b74aaf3494906ac4c2bb
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 9726
+--- !u!114 &616300948583483362
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ingredient/Collision Rail
+  m_EditorClassIdentifier: 
+  Path: event:/Ingredient/Collision Rail
+  guid: 30415df3e153aa4ab2295b0ab70669f7
+  Banks:
+  - {fileID: 4783787750002425902}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 475
+--- !u!114 &850723584438662317
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.strings.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod TurboPangolin/TurboPangolin/Build/Desktop/Master.strings.bank
+  SubDir: 
+  lastModified: 637154214344670786
+  LoadResult: 0
+  FileSizes:
+  - Name: Desktop
+    Value: 2152
+  Exists: 1
+--- !u!114 &1052877933400304454
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/TurboPangolin/SlowMoVis\xE9 2"
+  m_EditorClassIdentifier: 
+  Path: "event:/TurboPangolin/SlowMoVis\xE9 2"
+  guid: a894a10a27645343a8fb92f0adeeea2f
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 528
+--- !u!114 &2154103011259363267
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Master.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod TurboPangolin/TurboPangolin/Build/Desktop/Master.bank
+  SubDir: 
+  lastModified: 637153926635797008
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &2470261025492464859
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Eagle 1
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Eagle 1
+  guid: 956e859765cddb489ab9d9cb60379947
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 9707
+--- !u!114 &3151340761102545818
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Crow 3
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Crow 3
+  guid: d9a6f2a744013040a1d2f09ef19f2c43
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 14399
+--- !u!114 &3200745368940700747
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Conodor
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Conodor
+  guid: 8d0b04e03aa60547b0b80a19c6b79cea
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5176
+--- !u!114 &3349598948177057347
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/TurboPangolin/Footsteps Pango
+  m_EditorClassIdentifier: 
+  Path: event:/TurboPangolin/Footsteps Pango
+  guid: ac9d89a82a31874b8bc4de154d966f8b
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 7083
+--- !u!114 &4286499015177313614
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Crow 2
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Crow 2
+  guid: b8e25bdfaa349749b8c6c3c437091d7a
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 13030
+--- !u!114 &4434412193887358551
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/TurboPangolin/Air Pango
+  m_EditorClassIdentifier: 
+  Path: event:/TurboPangolin/Air Pango
+  guid: 1b069dc260f44b4b9a69e26859e9f35a
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 1
+  Is3D: 1
+  IsOneShot: 0
+  Parameters:
+  - {fileID: -3966899225555139785}
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 16213
+--- !u!114 &4783787750002425902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ingredients.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod TurboPangolin/TurboPangolin/Build/Desktop/Ingredients.bank
+  SubDir: 
+  lastModified: 637154214398570375
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &4897978433998653414
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ingredient/Destruction Coffre Fort
+  m_EditorClassIdentifier: 
+  Path: event:/Ingredient/Destruction Coffre Fort
+  guid: 663fb284445ed54a9d600447a236c85b
+  Banks:
+  - {fileID: 4783787750002425902}
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 830
+--- !u!114 &5936105679548052171
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ingredient/Son Tube
+  m_EditorClassIdentifier: 
+  Path: event:/Ingredient/Son Tube
+  guid: 9eb45c0bf2a84d4d89375dfa9e6eebe4
+  Banks:
+  - {fileID: 4783787750002425902}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 964
+--- !u!114 &6458948626171417313
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fecb8ef7f94ca804a8ab72049b86782e, type: 3}
+  m_Name: parameter:/Air Pango/VolumeAirPango
+  m_EditorClassIdentifier: 
+  Name: VolumeAirPango
+  Min: 0
+  Max: 100
+  Default: 0
+  Exists: 0
+--- !u!114 &7048565131280579530
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c18180ecb35941f4682ae60107b85b7c, type: 3}
+  m_Name: bank:/Ingredients.bank
+  m_EditorClassIdentifier: 
+  Path: Assets/Fmod TurboPangolin/TurboPangolin/Build/Desktop/Ingredients.bank
+  SubDir: 
+  lastModified: 637153926634885234
+  LoadResult: 0
+  FileSizes: []
+  Exists: 1
+--- !u!114 &7071434558923249976
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Eagle 2
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Eagle 2
+  guid: 150dfa53e409114b92b5bbc66a36c5cb
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 6202
+--- !u!114 &7604598542338285508
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Crow 1
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Crow 1
+  guid: 5c2873567e12b945909b4e2116596595
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 5754
+--- !u!114 &8759291129127138743
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ingredient/Collision metal
+  m_EditorClassIdentifier: 
+  Path: event:/Ingredient/Collision metal
+  guid: 91b726187cf5474f859f0d9de8b7d99d
+  Banks:
+  - {fileID: 4783787750002425902}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 20
+  Length: 1049
+--- !u!114 &8773858593835143902
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/Ambiance/Air/Ambiance Eagle 5
+  m_EditorClassIdentifier: 
+  Path: event:/Ambiance/Air/Ambiance Eagle 5
+  guid: 0df7135a135f7642bc27db69af515558
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 0
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 600
+  Length: 4104
+--- !u!114 &8831981898990645596
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: "event:/Ingredient/Destruction Ingr\xE9dients"
+  m_EditorClassIdentifier: 
+  Path: "event:/Ingredient/Destruction Ingr\xE9dients"
+  guid: 2cbc9486cf1fd540ba259c40f9fb1b6e
+  Banks:
+  - {fileID: 4783787750002425902}
+  IsStream: 0
+  Is3D: 1
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 1
+  MaxDistance: 150
+  Length: 1430
+--- !u!114 &9076144096452283278
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ceb653cd98e289a4e8697a1af55201f2, type: 3}
+  m_Name: event:/TurboPangolin/CanonReload
+  m_EditorClassIdentifier: 
+  Path: event:/TurboPangolin/CanonReload
+  guid: 7cf9479e7f110a40a56b5b0515b2b4c3
+  Banks:
+  - {fileID: -1787828014591057385}
+  IsStream: 0
+  Is3D: 0
+  IsOneShot: 1
+  Parameters: []
+  MinDistance: 0
+  MaxDistance: 0
+  Length: 673

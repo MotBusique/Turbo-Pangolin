@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.00.00">
+	<object class="AudioFile" id="{46494835-d4ed-452a-b424-51bbf044088b}">
+		<property name="assetPath">
+			<value>CanonPango3.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>44.0999985</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>1.4920181405895692</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{788aad74-f7d7-4826-a88d-802b15f4d5fe}</destination>
+		</relationship>
+	</object>
+</objects>
